@@ -1,1 +1,9 @@
-alert("Hello " + "my name is San Yi");
+const a = 9;
+const b = 3;
+const myName = "San";
+
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+console.log("Hello " + myName);
