@@ -1,12 +1,10 @@
-const daysOfWeek = ["mon", "tue", "wed", "thu", "fri", "sat"];
+const player = {
+  name: "San",
+  points: 10,
+  fat: true,
+};
 
-// Get item frim Array
-console.log(daysOfWeek);
-
-// Add one more day to the Array
-daysOfWeek.push("sun");
-
-console.log(daysOfWeek);
-
-const toBuy = ["potato", "tomato", "pizza"];
-console.log(toBuy[2]);
+console.log(player);
+player.points = player.points + 15;
+player.lastName = "Yi";
+console.log(player);
