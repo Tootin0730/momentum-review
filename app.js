@@ -1,1 +1,1 @@
-alert("hi");
+alert("Hello " + "my name is San Yi");
