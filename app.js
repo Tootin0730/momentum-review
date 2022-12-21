@@ -1,10 +1,7 @@
-const player = {
-  name: "San",
-  points: 10,
-  fat: true,
-};
+function sayHello() {
+  console.log("Hello, my name is C.");
+}
 
-console.log(player);
-player.points = player.points + 15;
-player.lastName = "Yi";
-console.log(player);
+sayHello("San");
+sayHello("Nico");
+sayHello("Dal");
