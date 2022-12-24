@@ -1,6 +1,5 @@
 const images = [
   "Colosseum.jpg",
-  "Eiffel.jpg",
   "Ger.jpg",
   "Hagia Sophia.jpg",
   "Hong Kong.jpg",
